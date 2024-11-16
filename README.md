@@ -7,7 +7,8 @@ Este proyecto implementa una serie de ejercicios prácticos relacionados con la 
 ### 1. Ordenación de una Lista de Diccionarios
 Se implementó un programa que ordena una lista de diccionarios en función de una clave específica.
 
-#### Ejemplo:
+#### Ejemplo:**Ejemplo:**
+
 **Entrada:**
 ```python
 [
@@ -16,7 +17,7 @@ Se implementó un programa que ordena una lista de diccionarios en función de u
     {'make': 'Huawei', 'model': 50, 'color': 'Gold'},
     {'make': 'Samsung', 'model': 7, 'color': 'Blue'}
 ]
-
+```
 **Salida:**
 ```python
 [
@@ -25,8 +26,7 @@ Se implementó un programa que ordena una lista de diccionarios en función de u
     {'make': 'Huawei', 'model': 50, 'color': 'Gold'},
     {'make': 'Nokia', 'model': 216, 'color': 'Black'}
 ]
-
-
+```
 
 1. **Clonar el repositorio:**
 
