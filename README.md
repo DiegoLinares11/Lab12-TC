@@ -4,6 +4,10 @@ Este proyecto implementa una serie de ejercicios prácticos relacionados con la 
 
 Se realizaron 4 ejercicios, sin embargo en el Readme pondre el ejemplo de lo que se hace en el primer ejercicio.
 
+## Ver el video en YouTube
+[Ver el video en YouTube](https://youtu.be/NxxueXk2r40)
+
+
 ## Contenido del Proyecto
 
 ### 1. Ordenación de una Lista de Diccionarios
