@@ -2,12 +2,14 @@
 
 Este proyecto implementa una serie de ejercicios prácticos relacionados con la teoría de la computación utilizando Python. Los ejercicios están enfocados en el uso de **funciones lambda** para realizar diversas operaciones, como ordenación, cálculos matemáticos, manipulación de matrices y filtrado de datos.
 
+Se realizaron 4 ejercicios, sin embargo en el Readme pondre el ejemplo de lo que se hace en el primer ejercicio.
+
 ## Contenido del Proyecto
 
 ### 1. Ordenación de una Lista de Diccionarios
 Se implementó un programa que ordena una lista de diccionarios en función de una clave específica.
 
-#### Ejemplo:**Ejemplo:**
+#### Ejemplo:
 
 **Entrada:**
 ```python
