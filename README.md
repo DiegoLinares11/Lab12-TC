@@ -16,3 +16,21 @@ Se implementó un programa que ordena una lista de diccionarios en función de u
     {'make': 'Huawei', 'model': 50, 'color': 'Gold'},
     {'make': 'Samsung', 'model': 7, 'color': 'Blue'}
 ]
+
+**Salida:**
+```python
+[
+    {'make': 'Apple', 'model': 2, 'color': 'Silver'},
+    {'make': 'Samsung', 'model': 7, 'color': 'Blue'},
+    {'make': 'Huawei', 'model': 50, 'color': 'Gold'},
+    {'make': 'Nokia', 'model': 216, 'color': 'Black'}
+]
+
+
+
+1. **Clonar el repositorio:**
+
+   Si aún no has clonado el repositorio, puedes hacerlo con el siguiente comando:
+
+   ```bash
+   git clone https://github.com/DiegoLinares11/Lab12-TC
